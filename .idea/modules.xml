@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Iphone/Iphone.iml" filepath="$PROJECT_DIR$/Iphone/Iphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sudoku/sudoku.iml" filepath="$PROJECT_DIR$/sudoku/sudoku.iml" />
     </modules>
   </component>
 </project>
